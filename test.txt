@@ -6,4 +6,6 @@ change 3
 issue 2 change
 master change during issue 3
 change in issue 4
+conflict change in issue 4
+pull request change
 conflict change master and issue 4

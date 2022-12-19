@@ -1,1 +1,2 @@
 this new document is added in the issue 1 branch
+change in master during issue 2

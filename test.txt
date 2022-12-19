@@ -8,3 +8,4 @@ master change during issue 3
 change in issue 4
 conflict change master and issue 4
 change issue 5
+change issue 5 change 2

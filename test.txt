@@ -3,3 +3,4 @@ change in issue 1 branch
 change 2 in issue 1 after rebase
 change 3 
 issue 2 change
+master change during issue 3

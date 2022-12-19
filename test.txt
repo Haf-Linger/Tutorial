@@ -1,4 +1,5 @@
 this is the initial version of this document
+master change during issue 4
 change in issue 1 branch
 change 2 in issue 1 after rebase
 change 3 
